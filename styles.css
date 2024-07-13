@@ -1,0 +1,20 @@
+.dis1, .dis2, .dis3, .dis4, .dis5 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+}
+
+.dis1 .card,
+.dis2 .card,
+.dis3 .card,
+.dis4 .card,
+.dis5 .card {
+    padding: 10px; 
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
